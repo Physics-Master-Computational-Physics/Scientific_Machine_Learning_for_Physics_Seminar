@@ -1,1 +1,0 @@
- # this file ca ncontain something of FFJORD
